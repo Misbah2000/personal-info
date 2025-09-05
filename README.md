@@ -1,13 +1,12 @@
-# Misba Mansuri
-# FrontEnd Web Developer
-# My Portfolllio : https://misbamansuri.netlify.app/
-# Linkedin : https://www.linkedin.com/in/misba-mansuri-0856b622a/
-# Resume :[ https://www.canva.com/design/DAFWgbrQ6c4/QPLF9fQIu0EEoO9V3LLYmw/view?       utm_content=DAFWgbrQ6c4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
-# AGE : 22
-# PHONE : +91 8888657783
-# EMAIL : misbamansuri2000@gmail.com
-# ADDRESS : At Post. Khanapur, Distric. Amravati, Maharashra, India.
-# About Me : I am a Front End Web Developer. I Have done many Projects using HTML. CSS and javascript and I know a UX
-#            and canva also and I have a great interest in learning new technologies. I am also learning Web Design Graphic
-#            Design and Back End. I learn all of these things myself and I am trying to become a pro at it.
+# Misba Mazhar Khan
+# data science and data analytics
+# My Portfolllio : [https://misbamansuri.netlify.app/]
+# Linkedin : [https://www.linkedin.com/in/misbah-mazhar-khan-a15025369/]
+# Resume :[file:///C:/Users/NS/Documents/Misbah_Mazhar_Khan_OnePage_Resume.pdf]
+# AGE : 25
+# PHONE : +91 9326378326
+# EMAIL : misbahmazhark@gmail.com
+# ADDRESS : Taloja, Navi Mumbai.
+# About Me : I am a Commerce graduate (B.Com, CGPA 8.98) with a strong academic background and a growing passion for data. After completing my graduation, I took a short career break to     #  focus on personal responsibilities and self-development. During this time, I discovered my interest in data-driven technologies, which led me to pursue a professional course in Data      #   Science and Data Analytics with AI. I have gained skills in Excel, SQL, Power BI, Tableau, Python, NumPy, Machine Learning, and AI, and I am now eager to apply them in real-world        #   business   3challenges. I am a quick learner, detail-oriented, and excited to begin my career in Data Analytics and Data Science.
+  
 # Open to Work || Hire Me 
