@@ -1,5 +1,5 @@
 # Misba Mazhar Khan
-# data science and data analytics
+# Data Science and Data Analytics
 # My Portfolllio : [https://misbamansuri.netlify.app/]
 # Linkedin : [https://www.linkedin.com/in/misbah-mazhar-khan-a15025369/]
 # Resume :[file:///C:/Users/NS/Documents/Misba%20Mazhar%20Khan-Resume(one%20page).pdf]
