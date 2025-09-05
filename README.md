@@ -2,7 +2,7 @@
 # data science and data analytics
 # My Portfolllio : [https://misbamansuri.netlify.app/]
 # Linkedin : [https://www.linkedin.com/in/misbah-mazhar-khan-a15025369/]
-# Resume :[file:///C:/Users/NS/Documents/Misbah_Mazhar_Khan_OnePage_Resume.pdf]
+# Resume :[file:///C:/Users/NS/Documents/Misba%20Mazhar%20Khan-Resume(one%20page).pdf]
 # AGE : 25
 # PHONE : +91 9326378326
 # EMAIL : misbahmazhark@gmail.com
